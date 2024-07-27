@@ -12,9 +12,6 @@ Estilo: Como uma profissional de TI
 
 Tom de voz: Formal
 
- ## Capa: 
-
-Feito com [Lexica.A](http://Lexica.ART)rt e Canva
 
 Agora, use os itens em {RESUMO} para o {ROTEIRO} seguindo as regras.
 
@@ -41,3 +38,9 @@ Agora, use os itens em {RESUMO} para o {ROTEIRO} seguindo as regras.
 >Máximo de 7 linhas por blocos de explicação;
 
 >Escreva de maneira formal, mas de simples entendimento.
+
+ ## Capa: 
+
+Feito com [Lexica.A](http://Lexica.ART)rt e Canva
+
+Artigo publicado: https://web.dio.me/articles/mudanca-de-rumo-do-tradicional-ao-digital?back=%2Farticles&page=1&order=oldest
